@@ -1,5 +1,9 @@
 # CChat
-CChat是一个基于swoole扩展和swoole框架的在线聊天应用。
+CChat是一个基于swoole扩展和swoole框架的在线聊天应用，采用H5的websocket于服务端通信。
+
+>要求
+1. `php >= 5.3.0 <= 7.0.0`
+2. `swoole-src >= 1.7.11`
 
 ## 1.启动消息服务器
 `/path/to/php msg_server.php`
