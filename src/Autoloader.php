@@ -7,7 +7,7 @@
  * @package JWebIM
  * @namespace JWebIM
  * @version 1.0.0
- * @copyright 2007-2016 聚橙网
+ * @copyright 2007-2016 iam2C
  */
 class Autoloader
 {
